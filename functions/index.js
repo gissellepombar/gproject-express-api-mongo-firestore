@@ -7,6 +7,7 @@ import { getAllDoc, postDoc } from "./src/functions.js";
 const app = express();
 app.use(cors());
 
+
 // Setup Routes
 
 //GET: Get All
