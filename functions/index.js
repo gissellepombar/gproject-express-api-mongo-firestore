@@ -1,6 +1,6 @@
+import functions from "firebase-functions";
 import express from "express";
 import cors from "cors";
-import functions from "firebase-functions";
 
 import { getAllDoc, postDoc } from "./src/functions.js";
 
